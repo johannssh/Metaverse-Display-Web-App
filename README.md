@@ -2,7 +2,7 @@
 
 In Progress: This will be a web app for me to upload my different MetaVerse/VR related projects.
 
-# Tech Stack:
+### Tech Stack:
 * TypeScript
 * Next.js
 * Express.js
